@@ -1,0 +1,8 @@
+check,count
+Duplicate IDs,0
+Invalid quantities,0
+Invalid discounts,0
+Negative shipping,0
+Orphan customers,0
+Orphan products,0
+Orphan stores,0

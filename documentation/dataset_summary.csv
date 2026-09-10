@@ -1,0 +1,2 @@
+customers,products,stores,clean_orders,raw_orders_including_duplicates,quality_issues_logged,date_rows
+7500,750,40,90000,90100,915,1461

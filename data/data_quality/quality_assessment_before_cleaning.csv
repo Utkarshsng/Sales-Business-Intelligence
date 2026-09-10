@@ -1,0 +1,18 @@
+table,check,issue_count,severity,recommended_action
+customers,Missing state,120,Medium,Keep record; state can be flagged as unknown.
+customers,Invalid age,80,High,Set invalid age to NULL and document it.
+customers,City formatting inconsistency,7478,Low,Standardize whitespace and capitalization.
+customers,Duplicate customer IDs,0,High,Investigate and retain one master record per ID.
+products,Negative unit cost,20,High,Set invalid cost to NULL for review.
+products,Category formatting inconsistency,1,Low,Standardize category text.
+products,Duplicate product IDs,0,High,Investigate duplicate master records.
+stores,Region formatting inconsistency,1,Low,Standardize region text.
+stores,Duplicate store IDs,0,High,Retain one record per store ID.
+orders,Duplicate order IDs,100,High,Remove exact duplicate transactions.
+orders,Invalid quantity,100,High,Reject invalid transaction rows.
+orders,Invalid discount,150,High,Reject invalid discount transactions.
+orders,Negative shipping cost,100,High,Reject invalid transaction rows.
+orders,Payment method formatting issue,1,Low,Trim and standardize labels.
+orders,Orphan customer IDs,0,High,Reject or quarantine transaction.
+orders,Orphan product IDs,0,High,Reject or quarantine transaction.
+orders,Orphan store IDs,0,High,Reject or quarantine transaction.

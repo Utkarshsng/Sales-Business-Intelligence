@@ -1,0 +1,916 @@
+table,row_index,issue_type,description
+customers,938,inconsistent_city_format,Capitalization or extra spaces in city
+customers,4085,inconsistent_city_format,Capitalization or extra spaces in city
+customers,5330,inconsistent_city_format,Capitalization or extra spaces in city
+customers,4033,inconsistent_city_format,Capitalization or extra spaces in city
+customers,5750,inconsistent_city_format,Capitalization or extra spaces in city
+customers,3844,inconsistent_city_format,Capitalization or extra spaces in city
+customers,5403,inconsistent_city_format,Capitalization or extra spaces in city
+customers,957,inconsistent_city_format,Capitalization or extra spaces in city
+customers,2891,inconsistent_city_format,Capitalization or extra spaces in city
+customers,5162,inconsistent_city_format,Capitalization or extra spaces in city
+customers,5935,inconsistent_city_format,Capitalization or extra spaces in city
+customers,6562,inconsistent_city_format,Capitalization or extra spaces in city
+customers,3832,inconsistent_city_format,Capitalization or extra spaces in city
+customers,4397,inconsistent_city_format,Capitalization or extra spaces in city
+customers,5483,inconsistent_city_format,Capitalization or extra spaces in city
+customers,7369,inconsistent_city_format,Capitalization or extra spaces in city
+customers,5519,inconsistent_city_format,Capitalization or extra spaces in city
+customers,5088,inconsistent_city_format,Capitalization or extra spaces in city
+customers,3810,inconsistent_city_format,Capitalization or extra spaces in city
+customers,418,inconsistent_city_format,Capitalization or extra spaces in city
+customers,4803,inconsistent_city_format,Capitalization or extra spaces in city
+customers,2866,inconsistent_city_format,Capitalization or extra spaces in city
+customers,478,inconsistent_city_format,Capitalization or extra spaces in city
+customers,3605,inconsistent_city_format,Capitalization or extra spaces in city
+customers,1232,inconsistent_city_format,Capitalization or extra spaces in city
+customers,5524,inconsistent_city_format,Capitalization or extra spaces in city
+customers,5193,inconsistent_city_format,Capitalization or extra spaces in city
+customers,753,inconsistent_city_format,Capitalization or extra spaces in city
+customers,309,inconsistent_city_format,Capitalization or extra spaces in city
+customers,313,inconsistent_city_format,Capitalization or extra spaces in city
+customers,7474,inconsistent_city_format,Capitalization or extra spaces in city
+customers,3434,inconsistent_city_format,Capitalization or extra spaces in city
+customers,1918,inconsistent_city_format,Capitalization or extra spaces in city
+customers,1261,inconsistent_city_format,Capitalization or extra spaces in city
+customers,4618,inconsistent_city_format,Capitalization or extra spaces in city
+customers,3807,inconsistent_city_format,Capitalization or extra spaces in city
+customers,451,inconsistent_city_format,Capitalization or extra spaces in city
+customers,7209,inconsistent_city_format,Capitalization or extra spaces in city
+customers,1849,inconsistent_city_format,Capitalization or extra spaces in city
+customers,3620,inconsistent_city_format,Capitalization or extra spaces in city
+customers,2450,inconsistent_city_format,Capitalization or extra spaces in city
+customers,4663,inconsistent_city_format,Capitalization or extra spaces in city
+customers,4743,inconsistent_city_format,Capitalization or extra spaces in city
+customers,2390,inconsistent_city_format,Capitalization or extra spaces in city
+customers,4483,inconsistent_city_format,Capitalization or extra spaces in city
+customers,404,inconsistent_city_format,Capitalization or extra spaces in city
+customers,5165,inconsistent_city_format,Capitalization or extra spaces in city
+customers,5679,inconsistent_city_format,Capitalization or extra spaces in city
+customers,3569,inconsistent_city_format,Capitalization or extra spaces in city
+customers,4539,inconsistent_city_format,Capitalization or extra spaces in city
+customers,4048,inconsistent_city_format,Capitalization or extra spaces in city
+customers,5376,inconsistent_city_format,Capitalization or extra spaces in city
+customers,1842,inconsistent_city_format,Capitalization or extra spaces in city
+customers,3491,inconsistent_city_format,Capitalization or extra spaces in city
+customers,5281,inconsistent_city_format,Capitalization or extra spaces in city
+customers,3181,inconsistent_city_format,Capitalization or extra spaces in city
+customers,2016,inconsistent_city_format,Capitalization or extra spaces in city
+customers,5898,inconsistent_city_format,Capitalization or extra spaces in city
+customers,2043,inconsistent_city_format,Capitalization or extra spaces in city
+customers,1116,inconsistent_city_format,Capitalization or extra spaces in city
+customers,4795,inconsistent_city_format,Capitalization or extra spaces in city
+customers,4074,inconsistent_city_format,Capitalization or extra spaces in city
+customers,1386,inconsistent_city_format,Capitalization or extra spaces in city
+customers,7223,inconsistent_city_format,Capitalization or extra spaces in city
+customers,1921,inconsistent_city_format,Capitalization or extra spaces in city
+customers,1226,inconsistent_city_format,Capitalization or extra spaces in city
+customers,2457,inconsistent_city_format,Capitalization or extra spaces in city
+customers,7430,inconsistent_city_format,Capitalization or extra spaces in city
+customers,6933,inconsistent_city_format,Capitalization or extra spaces in city
+customers,7387,inconsistent_city_format,Capitalization or extra spaces in city
+customers,5564,inconsistent_city_format,Capitalization or extra spaces in city
+customers,4948,inconsistent_city_format,Capitalization or extra spaces in city
+customers,3223,inconsistent_city_format,Capitalization or extra spaces in city
+customers,614,inconsistent_city_format,Capitalization or extra spaces in city
+customers,5223,inconsistent_city_format,Capitalization or extra spaces in city
+customers,1005,inconsistent_city_format,Capitalization or extra spaces in city
+customers,2907,inconsistent_city_format,Capitalization or extra spaces in city
+customers,185,inconsistent_city_format,Capitalization or extra spaces in city
+customers,4940,inconsistent_city_format,Capitalization or extra spaces in city
+customers,3748,inconsistent_city_format,Capitalization or extra spaces in city
+customers,7310,inconsistent_city_format,Capitalization or extra spaces in city
+customers,20,inconsistent_city_format,Capitalization or extra spaces in city
+customers,7000,inconsistent_city_format,Capitalization or extra spaces in city
+customers,994,inconsistent_city_format,Capitalization or extra spaces in city
+customers,3184,inconsistent_city_format,Capitalization or extra spaces in city
+customers,2315,inconsistent_city_format,Capitalization or extra spaces in city
+customers,494,inconsistent_city_format,Capitalization or extra spaces in city
+customers,669,inconsistent_city_format,Capitalization or extra spaces in city
+customers,4586,inconsistent_city_format,Capitalization or extra spaces in city
+customers,3563,inconsistent_city_format,Capitalization or extra spaces in city
+customers,7490,inconsistent_city_format,Capitalization or extra spaces in city
+customers,1869,inconsistent_city_format,Capitalization or extra spaces in city
+customers,6757,inconsistent_city_format,Capitalization or extra spaces in city
+customers,4319,inconsistent_city_format,Capitalization or extra spaces in city
+customers,4060,inconsistent_city_format,Capitalization or extra spaces in city
+customers,698,inconsistent_city_format,Capitalization or extra spaces in city
+customers,7046,inconsistent_city_format,Capitalization or extra spaces in city
+customers,243,inconsistent_city_format,Capitalization or extra spaces in city
+customers,391,inconsistent_city_format,Capitalization or extra spaces in city
+customers,4965,inconsistent_city_format,Capitalization or extra spaces in city
+customers,2597,inconsistent_city_format,Capitalization or extra spaces in city
+customers,3516,inconsistent_city_format,Capitalization or extra spaces in city
+customers,7074,inconsistent_city_format,Capitalization or extra spaces in city
+customers,4468,inconsistent_city_format,Capitalization or extra spaces in city
+customers,6035,inconsistent_city_format,Capitalization or extra spaces in city
+customers,3792,inconsistent_city_format,Capitalization or extra spaces in city
+customers,3148,inconsistent_city_format,Capitalization or extra spaces in city
+customers,886,inconsistent_city_format,Capitalization or extra spaces in city
+customers,5518,inconsistent_city_format,Capitalization or extra spaces in city
+customers,1832,inconsistent_city_format,Capitalization or extra spaces in city
+customers,4537,inconsistent_city_format,Capitalization or extra spaces in city
+customers,1105,inconsistent_city_format,Capitalization or extra spaces in city
+customers,5097,invalid_age,Age outside valid business range 18–100
+customers,5482,invalid_age,Age outside valid business range 18–100
+customers,4335,invalid_age,Age outside valid business range 18–100
+customers,2739,invalid_age,Age outside valid business range 18–100
+customers,4813,invalid_age,Age outside valid business range 18–100
+customers,2485,invalid_age,Age outside valid business range 18–100
+customers,5231,invalid_age,Age outside valid business range 18–100
+customers,3501,invalid_age,Age outside valid business range 18–100
+customers,2303,invalid_age,Age outside valid business range 18–100
+customers,6494,invalid_age,Age outside valid business range 18–100
+customers,2689,invalid_age,Age outside valid business range 18–100
+customers,3378,invalid_age,Age outside valid business range 18–100
+customers,4403,invalid_age,Age outside valid business range 18–100
+customers,3957,invalid_age,Age outside valid business range 18–100
+customers,2885,invalid_age,Age outside valid business range 18–100
+customers,6394,invalid_age,Age outside valid business range 18–100
+customers,2166,invalid_age,Age outside valid business range 18–100
+customers,2158,invalid_age,Age outside valid business range 18–100
+customers,6367,invalid_age,Age outside valid business range 18–100
+customers,6238,invalid_age,Age outside valid business range 18–100
+customers,7393,invalid_age,Age outside valid business range 18–100
+customers,2548,invalid_age,Age outside valid business range 18–100
+customers,1936,invalid_age,Age outside valid business range 18–100
+customers,4201,invalid_age,Age outside valid business range 18–100
+customers,4824,invalid_age,Age outside valid business range 18–100
+customers,4992,invalid_age,Age outside valid business range 18–100
+customers,1793,invalid_age,Age outside valid business range 18–100
+customers,2115,invalid_age,Age outside valid business range 18–100
+customers,4091,invalid_age,Age outside valid business range 18–100
+customers,499,invalid_age,Age outside valid business range 18–100
+customers,7207,invalid_age,Age outside valid business range 18–100
+customers,6637,invalid_age,Age outside valid business range 18–100
+customers,945,invalid_age,Age outside valid business range 18–100
+customers,6492,invalid_age,Age outside valid business range 18–100
+customers,320,invalid_age,Age outside valid business range 18–100
+customers,5643,invalid_age,Age outside valid business range 18–100
+customers,683,invalid_age,Age outside valid business range 18–100
+customers,3762,invalid_age,Age outside valid business range 18–100
+customers,7464,invalid_age,Age outside valid business range 18–100
+customers,7418,invalid_age,Age outside valid business range 18–100
+customers,1361,invalid_age,Age outside valid business range 18–100
+customers,1117,invalid_age,Age outside valid business range 18–100
+customers,890,invalid_age,Age outside valid business range 18–100
+customers,5258,invalid_age,Age outside valid business range 18–100
+customers,5711,invalid_age,Age outside valid business range 18–100
+customers,4774,invalid_age,Age outside valid business range 18–100
+customers,3147,invalid_age,Age outside valid business range 18–100
+customers,4502,invalid_age,Age outside valid business range 18–100
+customers,4064,invalid_age,Age outside valid business range 18–100
+customers,7495,invalid_age,Age outside valid business range 18–100
+customers,1137,invalid_age,Age outside valid business range 18–100
+customers,6322,invalid_age,Age outside valid business range 18–100
+customers,3278,invalid_age,Age outside valid business range 18–100
+customers,3160,invalid_age,Age outside valid business range 18–100
+customers,6645,invalid_age,Age outside valid business range 18–100
+customers,3767,invalid_age,Age outside valid business range 18–100
+customers,6738,invalid_age,Age outside valid business range 18–100
+customers,4215,invalid_age,Age outside valid business range 18–100
+customers,2355,invalid_age,Age outside valid business range 18–100
+customers,2470,invalid_age,Age outside valid business range 18–100
+customers,5763,invalid_age,Age outside valid business range 18–100
+customers,2624,invalid_age,Age outside valid business range 18–100
+customers,3145,invalid_age,Age outside valid business range 18–100
+customers,661,invalid_age,Age outside valid business range 18–100
+customers,28,invalid_age,Age outside valid business range 18–100
+customers,3807,invalid_age,Age outside valid business range 18–100
+customers,4149,invalid_age,Age outside valid business range 18–100
+customers,2491,invalid_age,Age outside valid business range 18–100
+customers,5617,invalid_age,Age outside valid business range 18–100
+customers,4022,invalid_age,Age outside valid business range 18–100
+customers,7266,invalid_age,Age outside valid business range 18–100
+customers,6642,invalid_age,Age outside valid business range 18–100
+customers,6503,invalid_age,Age outside valid business range 18–100
+customers,5863,invalid_age,Age outside valid business range 18–100
+customers,2564,invalid_age,Age outside valid business range 18–100
+customers,1001,invalid_age,Age outside valid business range 18–100
+customers,1616,invalid_age,Age outside valid business range 18–100
+customers,6828,invalid_age,Age outside valid business range 18–100
+customers,4848,invalid_age,Age outside valid business range 18–100
+customers,2792,invalid_age,Age outside valid business range 18–100
+customers,1543,missing_state,Missing state value
+customers,6369,missing_state,Missing state value
+customers,5360,missing_state,Missing state value
+customers,1334,missing_state,Missing state value
+customers,5975,missing_state,Missing state value
+customers,6843,missing_state,Missing state value
+customers,1520,missing_state,Missing state value
+customers,3594,missing_state,Missing state value
+customers,5092,missing_state,Missing state value
+customers,3664,missing_state,Missing state value
+customers,5541,missing_state,Missing state value
+customers,2817,missing_state,Missing state value
+customers,5504,missing_state,Missing state value
+customers,5552,missing_state,Missing state value
+customers,3579,missing_state,Missing state value
+customers,3551,missing_state,Missing state value
+customers,1503,missing_state,Missing state value
+customers,1809,missing_state,Missing state value
+customers,4945,missing_state,Missing state value
+customers,1146,missing_state,Missing state value
+customers,3744,missing_state,Missing state value
+customers,6750,missing_state,Missing state value
+customers,3917,missing_state,Missing state value
+customers,1318,missing_state,Missing state value
+customers,567,missing_state,Missing state value
+customers,6176,missing_state,Missing state value
+customers,2572,missing_state,Missing state value
+customers,6856,missing_state,Missing state value
+customers,3833,missing_state,Missing state value
+customers,202,missing_state,Missing state value
+customers,674,missing_state,Missing state value
+customers,3332,missing_state,Missing state value
+customers,6923,missing_state,Missing state value
+customers,6841,missing_state,Missing state value
+customers,5207,missing_state,Missing state value
+customers,2932,missing_state,Missing state value
+customers,3706,missing_state,Missing state value
+customers,6896,missing_state,Missing state value
+customers,1696,missing_state,Missing state value
+customers,3798,missing_state,Missing state value
+customers,1500,missing_state,Missing state value
+customers,2812,missing_state,Missing state value
+customers,3430,missing_state,Missing state value
+customers,762,missing_state,Missing state value
+customers,57,missing_state,Missing state value
+customers,4519,missing_state,Missing state value
+customers,5139,missing_state,Missing state value
+customers,7366,missing_state,Missing state value
+customers,365,missing_state,Missing state value
+customers,2258,missing_state,Missing state value
+customers,7181,missing_state,Missing state value
+customers,5776,missing_state,Missing state value
+customers,3870,missing_state,Missing state value
+customers,6824,missing_state,Missing state value
+customers,1620,missing_state,Missing state value
+customers,6422,missing_state,Missing state value
+customers,5168,missing_state,Missing state value
+customers,6549,missing_state,Missing state value
+customers,612,missing_state,Missing state value
+customers,4687,missing_state,Missing state value
+customers,5220,missing_state,Missing state value
+customers,1842,missing_state,Missing state value
+customers,6686,missing_state,Missing state value
+customers,6518,missing_state,Missing state value
+customers,477,missing_state,Missing state value
+customers,3697,missing_state,Missing state value
+customers,5797,missing_state,Missing state value
+customers,2835,missing_state,Missing state value
+customers,3291,missing_state,Missing state value
+customers,532,missing_state,Missing state value
+customers,6130,missing_state,Missing state value
+customers,5221,missing_state,Missing state value
+customers,2252,missing_state,Missing state value
+customers,7420,missing_state,Missing state value
+customers,682,missing_state,Missing state value
+customers,1736,missing_state,Missing state value
+customers,1091,missing_state,Missing state value
+customers,2669,missing_state,Missing state value
+customers,238,missing_state,Missing state value
+customers,2264,missing_state,Missing state value
+customers,1205,missing_state,Missing state value
+customers,336,missing_state,Missing state value
+customers,6951,missing_state,Missing state value
+customers,555,missing_state,Missing state value
+customers,1017,missing_state,Missing state value
+customers,5215,missing_state,Missing state value
+customers,5816,missing_state,Missing state value
+customers,6017,missing_state,Missing state value
+customers,1750,missing_state,Missing state value
+customers,6716,missing_state,Missing state value
+customers,2898,missing_state,Missing state value
+customers,1710,missing_state,Missing state value
+customers,4041,missing_state,Missing state value
+customers,1453,missing_state,Missing state value
+customers,2464,missing_state,Missing state value
+customers,4198,missing_state,Missing state value
+customers,6014,missing_state,Missing state value
+customers,5997,missing_state,Missing state value
+customers,6074,missing_state,Missing state value
+customers,6673,missing_state,Missing state value
+customers,1754,missing_state,Missing state value
+customers,2867,missing_state,Missing state value
+customers,7305,missing_state,Missing state value
+customers,5677,missing_state,Missing state value
+customers,6661,missing_state,Missing state value
+customers,4407,missing_state,Missing state value
+customers,2822,missing_state,Missing state value
+customers,6311,missing_state,Missing state value
+customers,7474,missing_state,Missing state value
+customers,1584,missing_state,Missing state value
+customers,3550,missing_state,Missing state value
+customers,2754,missing_state,Missing state value
+customers,3157,missing_state,Missing state value
+customers,2558,missing_state,Missing state value
+customers,2146,missing_state,Missing state value
+customers,6440,missing_state,Missing state value
+customers,5259,missing_state,Missing state value
+customers,5453,missing_state,Missing state value
+customers,503,missing_state,Missing state value
+customers,1488,missing_state,Missing state value
+products,103,inconsistent_category,Category spelling/capitalization inconsistency
+products,425,inconsistent_category,Category spelling/capitalization inconsistency
+products,449,inconsistent_category,Category spelling/capitalization inconsistency
+products,520,inconsistent_category,Category spelling/capitalization inconsistency
+products,46,inconsistent_category,Category spelling/capitalization inconsistency
+products,655,inconsistent_category,Category spelling/capitalization inconsistency
+products,227,inconsistent_category,Category spelling/capitalization inconsistency
+products,73,inconsistent_category,Category spelling/capitalization inconsistency
+products,45,inconsistent_category,Category spelling/capitalization inconsistency
+products,359,inconsistent_category,Category spelling/capitalization inconsistency
+products,254,inconsistent_category,Category spelling/capitalization inconsistency
+products,661,inconsistent_category,Category spelling/capitalization inconsistency
+products,617,inconsistent_category,Category spelling/capitalization inconsistency
+products,536,inconsistent_category,Category spelling/capitalization inconsistency
+products,55,inconsistent_category,Category spelling/capitalization inconsistency
+products,89,inconsistent_category,Category spelling/capitalization inconsistency
+products,203,inconsistent_category,Category spelling/capitalization inconsistency
+products,592,inconsistent_category,Category spelling/capitalization inconsistency
+products,202,inconsistent_category,Category spelling/capitalization inconsistency
+products,557,inconsistent_category,Category spelling/capitalization inconsistency
+products,432,inconsistent_category,Category spelling/capitalization inconsistency
+products,376,inconsistent_category,Category spelling/capitalization inconsistency
+products,481,inconsistent_category,Category spelling/capitalization inconsistency
+products,162,inconsistent_category,Category spelling/capitalization inconsistency
+products,466,inconsistent_category,Category spelling/capitalization inconsistency
+products,183,inconsistent_category,Category spelling/capitalization inconsistency
+products,443,inconsistent_category,Category spelling/capitalization inconsistency
+products,643,inconsistent_category,Category spelling/capitalization inconsistency
+products,438,inconsistent_category,Category spelling/capitalization inconsistency
+products,473,inconsistent_category,Category spelling/capitalization inconsistency
+products,143,inconsistent_category,Category spelling/capitalization inconsistency
+products,356,inconsistent_category,Category spelling/capitalization inconsistency
+products,319,inconsistent_category,Category spelling/capitalization inconsistency
+products,657,inconsistent_category,Category spelling/capitalization inconsistency
+products,469,inconsistent_category,Category spelling/capitalization inconsistency
+products,334,inconsistent_category,Category spelling/capitalization inconsistency
+products,256,inconsistent_category,Category spelling/capitalization inconsistency
+products,654,inconsistent_category,Category spelling/capitalization inconsistency
+products,362,inconsistent_category,Category spelling/capitalization inconsistency
+products,198,inconsistent_category,Category spelling/capitalization inconsistency
+products,27,inconsistent_category,Category spelling/capitalization inconsistency
+products,587,inconsistent_category,Category spelling/capitalization inconsistency
+products,137,inconsistent_category,Category spelling/capitalization inconsistency
+products,652,inconsistent_category,Category spelling/capitalization inconsistency
+products,630,inconsistent_category,Category spelling/capitalization inconsistency
+products,277,negative_unit_cost,Unit cost cannot be negative
+products,633,negative_unit_cost,Unit cost cannot be negative
+products,462,negative_unit_cost,Unit cost cannot be negative
+products,58,negative_unit_cost,Unit cost cannot be negative
+products,59,negative_unit_cost,Unit cost cannot be negative
+products,430,negative_unit_cost,Unit cost cannot be negative
+products,32,negative_unit_cost,Unit cost cannot be negative
+products,28,negative_unit_cost,Unit cost cannot be negative
+products,505,negative_unit_cost,Unit cost cannot be negative
+products,194,negative_unit_cost,Unit cost cannot be negative
+products,659,negative_unit_cost,Unit cost cannot be negative
+products,552,negative_unit_cost,Unit cost cannot be negative
+products,554,negative_unit_cost,Unit cost cannot be negative
+products,192,negative_unit_cost,Unit cost cannot be negative
+products,298,negative_unit_cost,Unit cost cannot be negative
+products,743,negative_unit_cost,Unit cost cannot be negative
+products,473,negative_unit_cost,Unit cost cannot be negative
+products,584,negative_unit_cost,Unit cost cannot be negative
+products,642,negative_unit_cost,Unit cost cannot be negative
+products,55,negative_unit_cost,Unit cost cannot be negative
+stores,4,inconsistent_region,Region capitalization inconsistency
+stores,16,inconsistent_region,Region capitalization inconsistency
+stores,2,inconsistent_region,Region capitalization inconsistency
+stores,39,inconsistent_region,Region capitalization inconsistency
+stores,23,inconsistent_region,Region capitalization inconsistency
+stores,13,inconsistent_region,Region capitalization inconsistency
+stores,6,inconsistent_region,Region capitalization inconsistency
+stores,7,inconsistent_region,Region capitalization inconsistency
+orders,27392,invalid_discount,Discount exceeds allowed business threshold
+orders,70414,invalid_discount,Discount exceeds allowed business threshold
+orders,11423,invalid_discount,Discount exceeds allowed business threshold
+orders,83680,invalid_discount,Discount exceeds allowed business threshold
+orders,44031,invalid_discount,Discount exceeds allowed business threshold
+orders,43137,invalid_discount,Discount exceeds allowed business threshold
+orders,44617,invalid_discount,Discount exceeds allowed business threshold
+orders,62238,invalid_discount,Discount exceeds allowed business threshold
+orders,79067,invalid_discount,Discount exceeds allowed business threshold
+orders,34549,invalid_discount,Discount exceeds allowed business threshold
+orders,87953,invalid_discount,Discount exceeds allowed business threshold
+orders,11166,invalid_discount,Discount exceeds allowed business threshold
+orders,48805,invalid_discount,Discount exceeds allowed business threshold
+orders,76678,invalid_discount,Discount exceeds allowed business threshold
+orders,18984,invalid_discount,Discount exceeds allowed business threshold
+orders,74223,invalid_discount,Discount exceeds allowed business threshold
+orders,78197,invalid_discount,Discount exceeds allowed business threshold
+orders,23373,invalid_discount,Discount exceeds allowed business threshold
+orders,45497,invalid_discount,Discount exceeds allowed business threshold
+orders,13213,invalid_discount,Discount exceeds allowed business threshold
+orders,75957,invalid_discount,Discount exceeds allowed business threshold
+orders,55299,invalid_discount,Discount exceeds allowed business threshold
+orders,57428,invalid_discount,Discount exceeds allowed business threshold
+orders,18374,invalid_discount,Discount exceeds allowed business threshold
+orders,20550,invalid_discount,Discount exceeds allowed business threshold
+orders,87391,invalid_discount,Discount exceeds allowed business threshold
+orders,48721,invalid_discount,Discount exceeds allowed business threshold
+orders,67806,invalid_discount,Discount exceeds allowed business threshold
+orders,62905,invalid_discount,Discount exceeds allowed business threshold
+orders,89424,invalid_discount,Discount exceeds allowed business threshold
+orders,74701,invalid_discount,Discount exceeds allowed business threshold
+orders,67208,invalid_discount,Discount exceeds allowed business threshold
+orders,27669,invalid_discount,Discount exceeds allowed business threshold
+orders,52087,invalid_discount,Discount exceeds allowed business threshold
+orders,74390,invalid_discount,Discount exceeds allowed business threshold
+orders,19255,invalid_discount,Discount exceeds allowed business threshold
+orders,58916,invalid_discount,Discount exceeds allowed business threshold
+orders,67268,invalid_discount,Discount exceeds allowed business threshold
+orders,4179,invalid_discount,Discount exceeds allowed business threshold
+orders,32691,invalid_discount,Discount exceeds allowed business threshold
+orders,62729,invalid_discount,Discount exceeds allowed business threshold
+orders,12432,invalid_discount,Discount exceeds allowed business threshold
+orders,88171,invalid_discount,Discount exceeds allowed business threshold
+orders,14977,invalid_discount,Discount exceeds allowed business threshold
+orders,38603,invalid_discount,Discount exceeds allowed business threshold
+orders,3011,invalid_discount,Discount exceeds allowed business threshold
+orders,86709,invalid_discount,Discount exceeds allowed business threshold
+orders,34473,invalid_discount,Discount exceeds allowed business threshold
+orders,48671,invalid_discount,Discount exceeds allowed business threshold
+orders,48863,invalid_discount,Discount exceeds allowed business threshold
+orders,22289,invalid_discount,Discount exceeds allowed business threshold
+orders,38898,invalid_discount,Discount exceeds allowed business threshold
+orders,52902,invalid_discount,Discount exceeds allowed business threshold
+orders,46521,invalid_discount,Discount exceeds allowed business threshold
+orders,24904,invalid_discount,Discount exceeds allowed business threshold
+orders,79093,invalid_discount,Discount exceeds allowed business threshold
+orders,2466,invalid_discount,Discount exceeds allowed business threshold
+orders,61844,invalid_discount,Discount exceeds allowed business threshold
+orders,29022,invalid_discount,Discount exceeds allowed business threshold
+orders,1092,invalid_discount,Discount exceeds allowed business threshold
+orders,22455,invalid_discount,Discount exceeds allowed business threshold
+orders,56297,invalid_discount,Discount exceeds allowed business threshold
+orders,20242,invalid_discount,Discount exceeds allowed business threshold
+orders,66807,invalid_discount,Discount exceeds allowed business threshold
+orders,4677,invalid_discount,Discount exceeds allowed business threshold
+orders,8850,invalid_discount,Discount exceeds allowed business threshold
+orders,1393,invalid_discount,Discount exceeds allowed business threshold
+orders,60824,invalid_discount,Discount exceeds allowed business threshold
+orders,7312,invalid_discount,Discount exceeds allowed business threshold
+orders,38390,invalid_discount,Discount exceeds allowed business threshold
+orders,74103,invalid_discount,Discount exceeds allowed business threshold
+orders,67622,invalid_discount,Discount exceeds allowed business threshold
+orders,44176,invalid_discount,Discount exceeds allowed business threshold
+orders,59466,invalid_discount,Discount exceeds allowed business threshold
+orders,42079,invalid_discount,Discount exceeds allowed business threshold
+orders,42349,invalid_discount,Discount exceeds allowed business threshold
+orders,25345,invalid_discount,Discount exceeds allowed business threshold
+orders,74105,invalid_discount,Discount exceeds allowed business threshold
+orders,33773,invalid_discount,Discount exceeds allowed business threshold
+orders,21588,invalid_discount,Discount exceeds allowed business threshold
+orders,77438,invalid_discount,Discount exceeds allowed business threshold
+orders,28139,invalid_discount,Discount exceeds allowed business threshold
+orders,13831,invalid_discount,Discount exceeds allowed business threshold
+orders,7709,invalid_discount,Discount exceeds allowed business threshold
+orders,45530,invalid_discount,Discount exceeds allowed business threshold
+orders,86911,invalid_discount,Discount exceeds allowed business threshold
+orders,78441,invalid_discount,Discount exceeds allowed business threshold
+orders,76120,invalid_discount,Discount exceeds allowed business threshold
+orders,76742,invalid_discount,Discount exceeds allowed business threshold
+orders,80936,invalid_discount,Discount exceeds allowed business threshold
+orders,8616,invalid_discount,Discount exceeds allowed business threshold
+orders,64237,invalid_discount,Discount exceeds allowed business threshold
+orders,31438,invalid_discount,Discount exceeds allowed business threshold
+orders,17484,invalid_discount,Discount exceeds allowed business threshold
+orders,12509,invalid_discount,Discount exceeds allowed business threshold
+orders,42187,invalid_discount,Discount exceeds allowed business threshold
+orders,77349,invalid_discount,Discount exceeds allowed business threshold
+orders,7332,invalid_discount,Discount exceeds allowed business threshold
+orders,40818,invalid_discount,Discount exceeds allowed business threshold
+orders,79655,invalid_discount,Discount exceeds allowed business threshold
+orders,26743,invalid_discount,Discount exceeds allowed business threshold
+orders,16015,invalid_discount,Discount exceeds allowed business threshold
+orders,24635,invalid_discount,Discount exceeds allowed business threshold
+orders,52510,invalid_discount,Discount exceeds allowed business threshold
+orders,46776,invalid_discount,Discount exceeds allowed business threshold
+orders,21831,invalid_discount,Discount exceeds allowed business threshold
+orders,10465,invalid_discount,Discount exceeds allowed business threshold
+orders,63795,invalid_discount,Discount exceeds allowed business threshold
+orders,14488,invalid_discount,Discount exceeds allowed business threshold
+orders,52121,invalid_discount,Discount exceeds allowed business threshold
+orders,37078,invalid_discount,Discount exceeds allowed business threshold
+orders,38593,invalid_discount,Discount exceeds allowed business threshold
+orders,76825,invalid_discount,Discount exceeds allowed business threshold
+orders,18875,invalid_discount,Discount exceeds allowed business threshold
+orders,41633,invalid_discount,Discount exceeds allowed business threshold
+orders,23866,invalid_discount,Discount exceeds allowed business threshold
+orders,25811,invalid_discount,Discount exceeds allowed business threshold
+orders,33338,invalid_discount,Discount exceeds allowed business threshold
+orders,76127,invalid_discount,Discount exceeds allowed business threshold
+orders,61261,invalid_discount,Discount exceeds allowed business threshold
+orders,81888,invalid_discount,Discount exceeds allowed business threshold
+orders,41555,invalid_discount,Discount exceeds allowed business threshold
+orders,74131,invalid_discount,Discount exceeds allowed business threshold
+orders,37140,invalid_discount,Discount exceeds allowed business threshold
+orders,63241,invalid_discount,Discount exceeds allowed business threshold
+orders,42750,invalid_discount,Discount exceeds allowed business threshold
+orders,19045,invalid_discount,Discount exceeds allowed business threshold
+orders,57295,invalid_discount,Discount exceeds allowed business threshold
+orders,66900,invalid_discount,Discount exceeds allowed business threshold
+orders,17157,invalid_discount,Discount exceeds allowed business threshold
+orders,45229,invalid_discount,Discount exceeds allowed business threshold
+orders,79904,invalid_discount,Discount exceeds allowed business threshold
+orders,56729,invalid_discount,Discount exceeds allowed business threshold
+orders,50946,invalid_discount,Discount exceeds allowed business threshold
+orders,87275,invalid_discount,Discount exceeds allowed business threshold
+orders,1447,invalid_discount,Discount exceeds allowed business threshold
+orders,12713,invalid_discount,Discount exceeds allowed business threshold
+orders,26684,invalid_discount,Discount exceeds allowed business threshold
+orders,48959,invalid_discount,Discount exceeds allowed business threshold
+orders,61161,invalid_discount,Discount exceeds allowed business threshold
+orders,7749,invalid_discount,Discount exceeds allowed business threshold
+orders,63386,invalid_discount,Discount exceeds allowed business threshold
+orders,53579,invalid_discount,Discount exceeds allowed business threshold
+orders,32183,invalid_discount,Discount exceeds allowed business threshold
+orders,6318,invalid_discount,Discount exceeds allowed business threshold
+orders,13386,invalid_discount,Discount exceeds allowed business threshold
+orders,1742,invalid_discount,Discount exceeds allowed business threshold
+orders,72819,invalid_discount,Discount exceeds allowed business threshold
+orders,88651,invalid_discount,Discount exceeds allowed business threshold
+orders,21516,invalid_discount,Discount exceeds allowed business threshold
+orders,70317,invalid_quantity,Quantity must be positive
+orders,66381,invalid_quantity,Quantity must be positive
+orders,81948,invalid_quantity,Quantity must be positive
+orders,38816,invalid_quantity,Quantity must be positive
+orders,65120,invalid_quantity,Quantity must be positive
+orders,88035,invalid_quantity,Quantity must be positive
+orders,2512,invalid_quantity,Quantity must be positive
+orders,6886,invalid_quantity,Quantity must be positive
+orders,18628,invalid_quantity,Quantity must be positive
+orders,88425,invalid_quantity,Quantity must be positive
+orders,84755,invalid_quantity,Quantity must be positive
+orders,80011,invalid_quantity,Quantity must be positive
+orders,8054,invalid_quantity,Quantity must be positive
+orders,35898,invalid_quantity,Quantity must be positive
+orders,38183,invalid_quantity,Quantity must be positive
+orders,6041,invalid_quantity,Quantity must be positive
+orders,50918,invalid_quantity,Quantity must be positive
+orders,35480,invalid_quantity,Quantity must be positive
+orders,41975,invalid_quantity,Quantity must be positive
+orders,83992,invalid_quantity,Quantity must be positive
+orders,45064,invalid_quantity,Quantity must be positive
+orders,4160,invalid_quantity,Quantity must be positive
+orders,16993,invalid_quantity,Quantity must be positive
+orders,22070,invalid_quantity,Quantity must be positive
+orders,35060,invalid_quantity,Quantity must be positive
+orders,22675,invalid_quantity,Quantity must be positive
+orders,44966,invalid_quantity,Quantity must be positive
+orders,11613,invalid_quantity,Quantity must be positive
+orders,45724,invalid_quantity,Quantity must be positive
+orders,12061,invalid_quantity,Quantity must be positive
+orders,63854,invalid_quantity,Quantity must be positive
+orders,79543,invalid_quantity,Quantity must be positive
+orders,69371,invalid_quantity,Quantity must be positive
+orders,81123,invalid_quantity,Quantity must be positive
+orders,47104,invalid_quantity,Quantity must be positive
+orders,66650,invalid_quantity,Quantity must be positive
+orders,3064,invalid_quantity,Quantity must be positive
+orders,4902,invalid_quantity,Quantity must be positive
+orders,62349,invalid_quantity,Quantity must be positive
+orders,89446,invalid_quantity,Quantity must be positive
+orders,53798,invalid_quantity,Quantity must be positive
+orders,44385,invalid_quantity,Quantity must be positive
+orders,82181,invalid_quantity,Quantity must be positive
+orders,74042,invalid_quantity,Quantity must be positive
+orders,17957,invalid_quantity,Quantity must be positive
+orders,81417,invalid_quantity,Quantity must be positive
+orders,38801,invalid_quantity,Quantity must be positive
+orders,12447,invalid_quantity,Quantity must be positive
+orders,9315,invalid_quantity,Quantity must be positive
+orders,31491,invalid_quantity,Quantity must be positive
+orders,21955,invalid_quantity,Quantity must be positive
+orders,78189,invalid_quantity,Quantity must be positive
+orders,73470,invalid_quantity,Quantity must be positive
+orders,48082,invalid_quantity,Quantity must be positive
+orders,26440,invalid_quantity,Quantity must be positive
+orders,87872,invalid_quantity,Quantity must be positive
+orders,24845,invalid_quantity,Quantity must be positive
+orders,45859,invalid_quantity,Quantity must be positive
+orders,15774,invalid_quantity,Quantity must be positive
+orders,20324,invalid_quantity,Quantity must be positive
+orders,59593,invalid_quantity,Quantity must be positive
+orders,27559,invalid_quantity,Quantity must be positive
+orders,84129,invalid_quantity,Quantity must be positive
+orders,33747,invalid_quantity,Quantity must be positive
+orders,30019,invalid_quantity,Quantity must be positive
+orders,79965,invalid_quantity,Quantity must be positive
+orders,20284,invalid_quantity,Quantity must be positive
+orders,49094,invalid_quantity,Quantity must be positive
+orders,44151,invalid_quantity,Quantity must be positive
+orders,51923,invalid_quantity,Quantity must be positive
+orders,20852,invalid_quantity,Quantity must be positive
+orders,9753,invalid_quantity,Quantity must be positive
+orders,50939,invalid_quantity,Quantity must be positive
+orders,66786,invalid_quantity,Quantity must be positive
+orders,13647,invalid_quantity,Quantity must be positive
+orders,56012,invalid_quantity,Quantity must be positive
+orders,19809,invalid_quantity,Quantity must be positive
+orders,60509,invalid_quantity,Quantity must be positive
+orders,33223,invalid_quantity,Quantity must be positive
+orders,48560,invalid_quantity,Quantity must be positive
+orders,18409,invalid_quantity,Quantity must be positive
+orders,41093,invalid_quantity,Quantity must be positive
+orders,45165,invalid_quantity,Quantity must be positive
+orders,32566,invalid_quantity,Quantity must be positive
+orders,27599,invalid_quantity,Quantity must be positive
+orders,26699,invalid_quantity,Quantity must be positive
+orders,63613,invalid_quantity,Quantity must be positive
+orders,65672,invalid_quantity,Quantity must be positive
+orders,1718,invalid_quantity,Quantity must be positive
+orders,66585,invalid_quantity,Quantity must be positive
+orders,8050,invalid_quantity,Quantity must be positive
+orders,64819,invalid_quantity,Quantity must be positive
+orders,40215,invalid_quantity,Quantity must be positive
+orders,35803,invalid_quantity,Quantity must be positive
+orders,53967,invalid_quantity,Quantity must be positive
+orders,18486,invalid_quantity,Quantity must be positive
+orders,81318,invalid_quantity,Quantity must be positive
+orders,29973,invalid_quantity,Quantity must be positive
+orders,44992,invalid_quantity,Quantity must be positive
+orders,88331,invalid_quantity,Quantity must be positive
+orders,63538,negative_shipping_cost,Shipping cost cannot be negative
+orders,29345,negative_shipping_cost,Shipping cost cannot be negative
+orders,80123,negative_shipping_cost,Shipping cost cannot be negative
+orders,37919,negative_shipping_cost,Shipping cost cannot be negative
+orders,20934,negative_shipping_cost,Shipping cost cannot be negative
+orders,85412,negative_shipping_cost,Shipping cost cannot be negative
+orders,10720,negative_shipping_cost,Shipping cost cannot be negative
+orders,20715,negative_shipping_cost,Shipping cost cannot be negative
+orders,66824,negative_shipping_cost,Shipping cost cannot be negative
+orders,67904,negative_shipping_cost,Shipping cost cannot be negative
+orders,72679,negative_shipping_cost,Shipping cost cannot be negative
+orders,80011,negative_shipping_cost,Shipping cost cannot be negative
+orders,76798,negative_shipping_cost,Shipping cost cannot be negative
+orders,44068,negative_shipping_cost,Shipping cost cannot be negative
+orders,52169,negative_shipping_cost,Shipping cost cannot be negative
+orders,56559,negative_shipping_cost,Shipping cost cannot be negative
+orders,67017,negative_shipping_cost,Shipping cost cannot be negative
+orders,11952,negative_shipping_cost,Shipping cost cannot be negative
+orders,14100,negative_shipping_cost,Shipping cost cannot be negative
+orders,12894,negative_shipping_cost,Shipping cost cannot be negative
+orders,74442,negative_shipping_cost,Shipping cost cannot be negative
+orders,80781,negative_shipping_cost,Shipping cost cannot be negative
+orders,16251,negative_shipping_cost,Shipping cost cannot be negative
+orders,56434,negative_shipping_cost,Shipping cost cannot be negative
+orders,75792,negative_shipping_cost,Shipping cost cannot be negative
+orders,32360,negative_shipping_cost,Shipping cost cannot be negative
+orders,68449,negative_shipping_cost,Shipping cost cannot be negative
+orders,70450,negative_shipping_cost,Shipping cost cannot be negative
+orders,20263,negative_shipping_cost,Shipping cost cannot be negative
+orders,69166,negative_shipping_cost,Shipping cost cannot be negative
+orders,68600,negative_shipping_cost,Shipping cost cannot be negative
+orders,56159,negative_shipping_cost,Shipping cost cannot be negative
+orders,20186,negative_shipping_cost,Shipping cost cannot be negative
+orders,79548,negative_shipping_cost,Shipping cost cannot be negative
+orders,4871,negative_shipping_cost,Shipping cost cannot be negative
+orders,27385,negative_shipping_cost,Shipping cost cannot be negative
+orders,86464,negative_shipping_cost,Shipping cost cannot be negative
+orders,65090,negative_shipping_cost,Shipping cost cannot be negative
+orders,7680,negative_shipping_cost,Shipping cost cannot be negative
+orders,42207,negative_shipping_cost,Shipping cost cannot be negative
+orders,54402,negative_shipping_cost,Shipping cost cannot be negative
+orders,23328,negative_shipping_cost,Shipping cost cannot be negative
+orders,46004,negative_shipping_cost,Shipping cost cannot be negative
+orders,36436,negative_shipping_cost,Shipping cost cannot be negative
+orders,70606,negative_shipping_cost,Shipping cost cannot be negative
+orders,58073,negative_shipping_cost,Shipping cost cannot be negative
+orders,70569,negative_shipping_cost,Shipping cost cannot be negative
+orders,17981,negative_shipping_cost,Shipping cost cannot be negative
+orders,52978,negative_shipping_cost,Shipping cost cannot be negative
+orders,76975,negative_shipping_cost,Shipping cost cannot be negative
+orders,50834,negative_shipping_cost,Shipping cost cannot be negative
+orders,51664,negative_shipping_cost,Shipping cost cannot be negative
+orders,82314,negative_shipping_cost,Shipping cost cannot be negative
+orders,25063,negative_shipping_cost,Shipping cost cannot be negative
+orders,40499,negative_shipping_cost,Shipping cost cannot be negative
+orders,6899,negative_shipping_cost,Shipping cost cannot be negative
+orders,50624,negative_shipping_cost,Shipping cost cannot be negative
+orders,52338,negative_shipping_cost,Shipping cost cannot be negative
+orders,17528,negative_shipping_cost,Shipping cost cannot be negative
+orders,73928,negative_shipping_cost,Shipping cost cannot be negative
+orders,27413,negative_shipping_cost,Shipping cost cannot be negative
+orders,31142,negative_shipping_cost,Shipping cost cannot be negative
+orders,6030,negative_shipping_cost,Shipping cost cannot be negative
+orders,13578,negative_shipping_cost,Shipping cost cannot be negative
+orders,18620,negative_shipping_cost,Shipping cost cannot be negative
+orders,11268,negative_shipping_cost,Shipping cost cannot be negative
+orders,9404,negative_shipping_cost,Shipping cost cannot be negative
+orders,15455,negative_shipping_cost,Shipping cost cannot be negative
+orders,35890,negative_shipping_cost,Shipping cost cannot be negative
+orders,38343,negative_shipping_cost,Shipping cost cannot be negative
+orders,20658,negative_shipping_cost,Shipping cost cannot be negative
+orders,74060,negative_shipping_cost,Shipping cost cannot be negative
+orders,20703,negative_shipping_cost,Shipping cost cannot be negative
+orders,82110,negative_shipping_cost,Shipping cost cannot be negative
+orders,73936,negative_shipping_cost,Shipping cost cannot be negative
+orders,47046,negative_shipping_cost,Shipping cost cannot be negative
+orders,62979,negative_shipping_cost,Shipping cost cannot be negative
+orders,36382,negative_shipping_cost,Shipping cost cannot be negative
+orders,8880,negative_shipping_cost,Shipping cost cannot be negative
+orders,39090,negative_shipping_cost,Shipping cost cannot be negative
+orders,43144,negative_shipping_cost,Shipping cost cannot be negative
+orders,46980,negative_shipping_cost,Shipping cost cannot be negative
+orders,6275,negative_shipping_cost,Shipping cost cannot be negative
+orders,16545,negative_shipping_cost,Shipping cost cannot be negative
+orders,18602,negative_shipping_cost,Shipping cost cannot be negative
+orders,81626,negative_shipping_cost,Shipping cost cannot be negative
+orders,1062,negative_shipping_cost,Shipping cost cannot be negative
+orders,5024,negative_shipping_cost,Shipping cost cannot be negative
+orders,515,negative_shipping_cost,Shipping cost cannot be negative
+orders,21503,negative_shipping_cost,Shipping cost cannot be negative
+orders,21176,negative_shipping_cost,Shipping cost cannot be negative
+orders,16522,negative_shipping_cost,Shipping cost cannot be negative
+orders,89036,negative_shipping_cost,Shipping cost cannot be negative
+orders,42082,negative_shipping_cost,Shipping cost cannot be negative
+orders,84478,negative_shipping_cost,Shipping cost cannot be negative
+orders,24546,negative_shipping_cost,Shipping cost cannot be negative
+orders,7825,negative_shipping_cost,Shipping cost cannot be negative
+orders,24338,negative_shipping_cost,Shipping cost cannot be negative
+orders,41300,negative_shipping_cost,Shipping cost cannot be negative
+orders,1623,negative_shipping_cost,Shipping cost cannot be negative
+orders,68215,inconsistent_payment_method,Payment method contains formatting inconsistency
+orders,83491,inconsistent_payment_method,Payment method contains formatting inconsistency
+orders,12638,inconsistent_payment_method,Payment method contains formatting inconsistency
+orders,61024,inconsistent_payment_method,Payment method contains formatting inconsistency
+orders,51842,inconsistent_payment_method,Payment method contains formatting inconsistency
+orders,21187,inconsistent_payment_method,Payment method contains formatting inconsistency
+orders,50487,inconsistent_payment_method,Payment method contains formatting inconsistency
+orders,52788,inconsistent_payment_method,Payment method contains formatting inconsistency
+orders,29652,inconsistent_payment_method,Payment method contains formatting inconsistency
+orders,54346,inconsistent_payment_method,Payment method contains formatting inconsistency
+orders,27495,inconsistent_payment_method,Payment method contains formatting inconsistency
+orders,32917,inconsistent_payment_method,Payment method contains formatting inconsistency
+orders,65811,inconsistent_payment_method,Payment method contains formatting inconsistency
+orders,35748,inconsistent_payment_method,Payment method contains formatting inconsistency
+orders,26092,inconsistent_payment_method,Payment method contains formatting inconsistency
+orders,66860,inconsistent_payment_method,Payment method contains formatting inconsistency
+orders,20311,inconsistent_payment_method,Payment method contains formatting inconsistency
+orders,64662,inconsistent_payment_method,Payment method contains formatting inconsistency
+orders,34187,inconsistent_payment_method,Payment method contains formatting inconsistency
+orders,63683,inconsistent_payment_method,Payment method contains formatting inconsistency
+orders,84489,inconsistent_payment_method,Payment method contains formatting inconsistency
+orders,13167,inconsistent_payment_method,Payment method contains formatting inconsistency
+orders,29661,inconsistent_payment_method,Payment method contains formatting inconsistency
+orders,51691,inconsistent_payment_method,Payment method contains formatting inconsistency
+orders,76670,inconsistent_payment_method,Payment method contains formatting inconsistency
+orders,69144,inconsistent_payment_method,Payment method contains formatting inconsistency
+orders,75017,inconsistent_payment_method,Payment method contains formatting inconsistency
+orders,24173,inconsistent_payment_method,Payment method contains formatting inconsistency
+orders,44543,inconsistent_payment_method,Payment method contains formatting inconsistency
+orders,36628,inconsistent_payment_method,Payment method contains formatting inconsistency
+orders,89652,inconsistent_payment_method,Payment method contains formatting inconsistency
+orders,25780,inconsistent_payment_method,Payment method contains formatting inconsistency
+orders,11398,inconsistent_payment_method,Payment method contains formatting inconsistency
+orders,30431,inconsistent_payment_method,Payment method contains formatting inconsistency
+orders,44290,inconsistent_payment_method,Payment method contains formatting inconsistency
+orders,19746,inconsistent_payment_method,Payment method contains formatting inconsistency
+orders,31756,inconsistent_payment_method,Payment method contains formatting inconsistency
+orders,81963,inconsistent_payment_method,Payment method contains formatting inconsistency
+orders,64366,inconsistent_payment_method,Payment method contains formatting inconsistency
+orders,25249,inconsistent_payment_method,Payment method contains formatting inconsistency
+orders,34464,inconsistent_payment_method,Payment method contains formatting inconsistency
+orders,59345,inconsistent_payment_method,Payment method contains formatting inconsistency
+orders,52856,inconsistent_payment_method,Payment method contains formatting inconsistency
+orders,38263,inconsistent_payment_method,Payment method contains formatting inconsistency
+orders,28022,inconsistent_payment_method,Payment method contains formatting inconsistency
+orders,59101,inconsistent_payment_method,Payment method contains formatting inconsistency
+orders,26110,inconsistent_payment_method,Payment method contains formatting inconsistency
+orders,36495,inconsistent_payment_method,Payment method contains formatting inconsistency
+orders,43486,inconsistent_payment_method,Payment method contains formatting inconsistency
+orders,50216,inconsistent_payment_method,Payment method contains formatting inconsistency
+orders,67243,inconsistent_payment_method,Payment method contains formatting inconsistency
+orders,33470,inconsistent_payment_method,Payment method contains formatting inconsistency
+orders,89539,inconsistent_payment_method,Payment method contains formatting inconsistency
+orders,58585,inconsistent_payment_method,Payment method contains formatting inconsistency
+orders,56375,inconsistent_payment_method,Payment method contains formatting inconsistency
+orders,6727,inconsistent_payment_method,Payment method contains formatting inconsistency
+orders,82874,inconsistent_payment_method,Payment method contains formatting inconsistency
+orders,75976,inconsistent_payment_method,Payment method contains formatting inconsistency
+orders,41602,inconsistent_payment_method,Payment method contains formatting inconsistency
+orders,43350,inconsistent_payment_method,Payment method contains formatting inconsistency
+orders,83971,inconsistent_payment_method,Payment method contains formatting inconsistency
+orders,38108,inconsistent_payment_method,Payment method contains formatting inconsistency
+orders,88496,inconsistent_payment_method,Payment method contains formatting inconsistency
+orders,68497,inconsistent_payment_method,Payment method contains formatting inconsistency
+orders,59621,inconsistent_payment_method,Payment method contains formatting inconsistency
+orders,80884,inconsistent_payment_method,Payment method contains formatting inconsistency
+orders,76072,inconsistent_payment_method,Payment method contains formatting inconsistency
+orders,19071,inconsistent_payment_method,Payment method contains formatting inconsistency
+orders,17606,inconsistent_payment_method,Payment method contains formatting inconsistency
+orders,3775,inconsistent_payment_method,Payment method contains formatting inconsistency
+orders,80353,inconsistent_payment_method,Payment method contains formatting inconsistency
+orders,11129,inconsistent_payment_method,Payment method contains formatting inconsistency
+orders,78403,inconsistent_payment_method,Payment method contains formatting inconsistency
+orders,41127,inconsistent_payment_method,Payment method contains formatting inconsistency
+orders,80657,inconsistent_payment_method,Payment method contains formatting inconsistency
+orders,83951,inconsistent_payment_method,Payment method contains formatting inconsistency
+orders,64068,inconsistent_payment_method,Payment method contains formatting inconsistency
+orders,25176,inconsistent_payment_method,Payment method contains formatting inconsistency
+orders,35815,inconsistent_payment_method,Payment method contains formatting inconsistency
+orders,13886,inconsistent_payment_method,Payment method contains formatting inconsistency
+orders,76043,duplicate_order,Exact duplicate transaction record introduced
+orders,81842,duplicate_order,Exact duplicate transaction record introduced
+orders,43392,duplicate_order,Exact duplicate transaction record introduced
+orders,14433,duplicate_order,Exact duplicate transaction record introduced
+orders,63871,duplicate_order,Exact duplicate transaction record introduced
+orders,57601,duplicate_order,Exact duplicate transaction record introduced
+orders,46017,duplicate_order,Exact duplicate transaction record introduced
+orders,62004,duplicate_order,Exact duplicate transaction record introduced
+orders,3026,duplicate_order,Exact duplicate transaction record introduced
+orders,48748,duplicate_order,Exact duplicate transaction record introduced
+orders,79109,duplicate_order,Exact duplicate transaction record introduced
+orders,35356,duplicate_order,Exact duplicate transaction record introduced
+orders,40961,duplicate_order,Exact duplicate transaction record introduced
+orders,7307,duplicate_order,Exact duplicate transaction record introduced
+orders,28955,duplicate_order,Exact duplicate transaction record introduced
+orders,10968,duplicate_order,Exact duplicate transaction record introduced
+orders,83169,duplicate_order,Exact duplicate transaction record introduced
+orders,32125,duplicate_order,Exact duplicate transaction record introduced
+orders,84453,duplicate_order,Exact duplicate transaction record introduced
+orders,39464,duplicate_order,Exact duplicate transaction record introduced
+orders,20198,duplicate_order,Exact duplicate transaction record introduced
+orders,75126,duplicate_order,Exact duplicate transaction record introduced
+orders,9901,duplicate_order,Exact duplicate transaction record introduced
+orders,6596,duplicate_order,Exact duplicate transaction record introduced
+orders,70654,duplicate_order,Exact duplicate transaction record introduced
+orders,48408,duplicate_order,Exact duplicate transaction record introduced
+orders,28590,duplicate_order,Exact duplicate transaction record introduced
+orders,41012,duplicate_order,Exact duplicate transaction record introduced
+orders,46712,duplicate_order,Exact duplicate transaction record introduced
+orders,52612,duplicate_order,Exact duplicate transaction record introduced
+orders,30677,duplicate_order,Exact duplicate transaction record introduced
+orders,15891,duplicate_order,Exact duplicate transaction record introduced
+orders,89573,duplicate_order,Exact duplicate transaction record introduced
+orders,37480,duplicate_order,Exact duplicate transaction record introduced
+orders,18668,duplicate_order,Exact duplicate transaction record introduced
+orders,69973,duplicate_order,Exact duplicate transaction record introduced
+orders,54048,duplicate_order,Exact duplicate transaction record introduced
+orders,65504,duplicate_order,Exact duplicate transaction record introduced
+orders,25594,duplicate_order,Exact duplicate transaction record introduced
+orders,22106,duplicate_order,Exact duplicate transaction record introduced
+orders,45123,duplicate_order,Exact duplicate transaction record introduced
+orders,83559,duplicate_order,Exact duplicate transaction record introduced
+orders,81889,duplicate_order,Exact duplicate transaction record introduced
+orders,64307,duplicate_order,Exact duplicate transaction record introduced
+orders,60978,duplicate_order,Exact duplicate transaction record introduced
+orders,21937,duplicate_order,Exact duplicate transaction record introduced
+orders,19065,duplicate_order,Exact duplicate transaction record introduced
+orders,70191,duplicate_order,Exact duplicate transaction record introduced
+orders,11054,duplicate_order,Exact duplicate transaction record introduced
+orders,9257,duplicate_order,Exact duplicate transaction record introduced
+orders,45972,duplicate_order,Exact duplicate transaction record introduced
+orders,71987,duplicate_order,Exact duplicate transaction record introduced
+orders,36040,duplicate_order,Exact duplicate transaction record introduced
+orders,22321,duplicate_order,Exact duplicate transaction record introduced
+orders,17951,duplicate_order,Exact duplicate transaction record introduced
+orders,58726,duplicate_order,Exact duplicate transaction record introduced
+orders,3039,duplicate_order,Exact duplicate transaction record introduced
+orders,84530,duplicate_order,Exact duplicate transaction record introduced
+orders,13002,duplicate_order,Exact duplicate transaction record introduced
+orders,57123,duplicate_order,Exact duplicate transaction record introduced
+orders,9062,duplicate_order,Exact duplicate transaction record introduced
+orders,30298,duplicate_order,Exact duplicate transaction record introduced
+orders,49411,duplicate_order,Exact duplicate transaction record introduced
+orders,74339,duplicate_order,Exact duplicate transaction record introduced
+orders,65045,duplicate_order,Exact duplicate transaction record introduced
+orders,86147,duplicate_order,Exact duplicate transaction record introduced
+orders,19052,duplicate_order,Exact duplicate transaction record introduced
+orders,63915,duplicate_order,Exact duplicate transaction record introduced
+orders,74555,duplicate_order,Exact duplicate transaction record introduced
+orders,33533,duplicate_order,Exact duplicate transaction record introduced
+orders,35672,duplicate_order,Exact duplicate transaction record introduced
+orders,21779,duplicate_order,Exact duplicate transaction record introduced
+orders,1299,duplicate_order,Exact duplicate transaction record introduced
+orders,3471,duplicate_order,Exact duplicate transaction record introduced
+orders,84238,duplicate_order,Exact duplicate transaction record introduced
+orders,15018,duplicate_order,Exact duplicate transaction record introduced
+orders,33508,duplicate_order,Exact duplicate transaction record introduced
+orders,4271,duplicate_order,Exact duplicate transaction record introduced
+orders,48048,duplicate_order,Exact duplicate transaction record introduced
+orders,12255,duplicate_order,Exact duplicate transaction record introduced
+orders,85430,duplicate_order,Exact duplicate transaction record introduced
+orders,69121,duplicate_order,Exact duplicate transaction record introduced
+orders,57226,duplicate_order,Exact duplicate transaction record introduced
+orders,18715,duplicate_order,Exact duplicate transaction record introduced
+orders,10464,duplicate_order,Exact duplicate transaction record introduced
+orders,53516,duplicate_order,Exact duplicate transaction record introduced
+orders,67570,duplicate_order,Exact duplicate transaction record introduced
+orders,85400,duplicate_order,Exact duplicate transaction record introduced
+orders,70588,duplicate_order,Exact duplicate transaction record introduced
+orders,62580,duplicate_order,Exact duplicate transaction record introduced
+orders,6811,duplicate_order,Exact duplicate transaction record introduced
+orders,29273,duplicate_order,Exact duplicate transaction record introduced
+orders,19246,duplicate_order,Exact duplicate transaction record introduced
+orders,56184,duplicate_order,Exact duplicate transaction record introduced
+orders,49604,duplicate_order,Exact duplicate transaction record introduced
+orders,43889,duplicate_order,Exact duplicate transaction record introduced
+orders,80279,duplicate_order,Exact duplicate transaction record introduced
+orders,58603,duplicate_order,Exact duplicate transaction record introduced
+orders,49240,duplicate_order,Exact duplicate transaction record introduced
+orders,86736,duplicate_order,Exact duplicate transaction record introduced

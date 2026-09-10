@@ -1,0 +1,14 @@
+file,exists
+README.md,True
+data/raw/orders_raw.csv,True
+data/cleaned/orders_cleaned_from_raw.csv,True
+data/data_quality/validation_after_cleaning.csv,True
+excel/Project1_Excel_Analysis_Workbook.xlsx,True
+excel/power_query/01_customers.m,True
+excel/power_query/04_orders.m,True
+sql/01_schema.sql,True
+sql/02_analytical_queries.sql,True
+powerbi/01_dax_measures.txt,True
+powerbi/02_powerbi_dashboard_blueprint.md,True
+documentation/business_insights_and_recommendations.md,True
+documentation/interview_defense_guide.md,True

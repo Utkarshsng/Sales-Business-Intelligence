@@ -1,0 +1,8 @@
+metric,value
+Raw order rows,17020
+Duplicate IDs,20
+Invalid quantity rows,21
+Invalid discount rows,0
+Negative shipping rows,20
+Cleaned order rows,16960
+Rejected rows,40

@@ -1,0 +1,301 @@
+product_id,product_name,category,subcategory,brand,unit_cost,selling_price
+PROD0003,Edge Laptop 598,Electronics,Laptops,PrimeWorks,54853.12,84282.32
+PROD0004,Edge Laptop 669,Electronics,Laptops,Vertex,18080.61,20651.38
+PROD0005,Elite Chair 709,Furniture,Chairs,Zenith,35660.61,41385.68
+PROD0009,Max Heating 912,Appliances,Heating,Zenith,20020.92,28032.62
+PROD0011,Essential Bag 311,Accessories,Bags,UrbanEdge,1255.81,1434.9
+PROD0016,Edge Cabinet 862,Furniture,Cabinets,NovaTech,18044.83,21722.81
+PROD0019,Plus Productivity 338,Software,Productivity,Nimbus,4523.32,5876.88
+PROD0020,Smart Small Appliance 971,Appliances,Small Appliances,PrimeWorks,3563.52,4292.6
+PROD0022,Smart Cleaning Appliance 866,Appliances,Cleaning Appliances,Coreline,10406.64,16659.39
+PROD0028,Max Networking 857,Electronics,Networking,PrimeWorks,15150.14,22917.33
+PROD0029,Core Mice 711,Accessories,Mice,Zenith,1760.4,2084.81
+PROD0030,Smart Cleaning 206,Home & Office,Cleaning,Zenith,23597.51,37867.34
+PROD0031,Elite Collaboration 984,Software,Collaboration,NovaTech,5590.58,7540.88
+PROD0033,Core Office Equipment 668,Home & Office,Office Equipment,Zenith,31822.52,39103.03
+PROD0036,Core Kitchen 440,Appliances,Kitchen,Vertex,7537.29,8576.85
+PROD0038,Core Headset 104,Accessories,Headsets,Zenith,3186.28,3672.18
+PROD0039,Smart Printer 617,Home & Office,Printers,UrbanEdge,11926.76,14495.65
+PROD0043,Smart Smartphone 955,Electronics,Smartphones,Zenith,14320.25,23048.65
+PROD0049,Max Tablet 395,Electronics,Tablets,Nimbus,31010.67,39014.94
+PROD0052,Smart Smartphone 898,Electronics,Smartphones,Vertex,55306.09,64448.35
+PROD0053,Core Laptop 286,Electronics,Laptops,BluePeak,13758.17,20536.28
+PROD0054,Plus Printer 685,Home & Office,Printers,UrbanEdge,515.18,828.6
+PROD0055,Essential Keyboard 375,Accessories,Keyboards,UrbanEdge,1840.02,2894.96
+PROD0057,Edge Keyboard 957,Accessories,Keyboards,UrbanEdge,2661.77,3284.92
+PROD0058,Elite Smartphone 806,Electronics,Smartphones,NovaTech,58743.48,71531.8
+PROD0059,Edge Cable 955,Accessories,Cables,BluePeak,1744.29,2227.67
+PROD0063,Edge Bag 656,Accessories,Bags,Nimbus,945.95,1117.07
+PROD0064,Plus Smartphone 136,Electronics,Smartphones,Orion,18965.51,22249.73
+PROD0065,Essential Headset 164,Accessories,Headsets,Zenith,2302.9,2707.25
+PROD0067,Pro Small Appliance 773,Appliances,Small Appliances,Zenith,8039.63,12354.02
+PROD0070,Smart Cleaning Appliance 272,Appliances,Cleaning Appliances,Coreline,8439.91,13239.9
+PROD0071,Max Storage 799,Home & Office,Storage,Orion,3098.76,4728.79
+PROD0074,Edge Consulting 445,Services,Consulting,UrbanEdge,17432.41,23953.79
+PROD0076,Edge Bag 252,Accessories,Bags,Orion,1771.67,2614.75
+PROD0078,Plus Cable 545,Accessories,Cables,Apex,-100.0,339.3
+PROD0079,Max Stationery 546,Home & Office,Stationery,Apex,6590.85,7527.97
+PROD0080,Edge Desk 187,Furniture,Desks,Coreline,9068.38,14244.37
+PROD0081,Elite Cleaning Appliance 592,Appliances,Cleaning Appliances,Orion,63988.94,80457.34
+PROD0083,Essential Cleaning Appliance 930,Appliances,Cleaning Appliances,Orion,6947.39,10173.81
+PROD0085,Core Collaboration 494,Software,Collaboration,Orion,2748.68,3260.93
+PROD0087,Edge Collaboration 802,Software,Collaboration,Apex,3941.59,5611.91
+PROD0089,Elite Bag 731,Accessories,Bags,Zenith,1777.75,2808.98
+PROD0094,Pro Laptop 946,Electronics,Laptops,UrbanEdge,38670.64,51250.8
+PROD0097,Smart Keyboard 941,Accessories,Keyboards,Apex,6080.85,7736.01
+PROD0099,Edge Laptop 513,Electronics,Laptops,NovaTech,10268.46,13744.55
+PROD0100,Plus Networking 104,Electronics,Networking,Zenith,65263.45,84007.42
+PROD0101,Plus Maintenance 624,Services,Maintenance,Coreline,3520.15,5134.28
+PROD0104,Edge Security 255,Software,Security,Nimbus,2078.63,2427.46
+PROD0106,Max Laptop 790,Electronics,Laptops,UrbanEdge,66891.67,105947.98
+PROD0107,Edge Cable 502,Accessories,Cables,PrimeWorks,10091.25,11755.58
+PROD0108,Max Installation 913,Services,Installation,Coreline,3079.71,3586.73
+PROD0112,Pro Support 492,Services,Support,Apex,11370.2,14626.46
+PROD0114,Max Office Equipment 466,Home & Office,Office Equipment,Nimbus,1186.83,1522.01
+PROD0115,Pro Laptop 414,Electronics,Laptops,Coreline,49966.52,66162.89
+PROD0117,Plus Small Appliance 644,Appliances,Small Appliances,Coreline,5687.62,6789.65
+PROD0118,Core Storage 354,Home & Office,Storage,UrbanEdge,18534.83,22926.53
+PROD0119,Essential Monitor 499,Electronics,Monitors,Apex,104570.47,119184.48
+PROD0121,Plus Tablet 663,Electronics,Tablets,Nimbus,7511.02,10478.09
+PROD0125,Essential Keyboard 855,Accessories,Keyboards,NovaTech,704.96,948.23
+PROD0127,Smart Monitor 651,Electronics,Monitors,Zenith,8913.61,13497.46
+PROD0129,Core Tablet 222,Electronics,Tablets,UrbanEdge,61159.87,94942.29
+PROD0135,Elite Cleaning 937,Home & Office,Cleaning,Orion,1933.02,2887.31
+PROD0136,Plus Mice 600,Accessories,Mice,Vertex,4966.64,7982.01
+PROD0140,Elite Kitchen 294,Appliances,Kitchen,Vertex,3405.34,4018.8
+PROD0142,Elite Printer 651,Home & Office,Printers,PrimeWorks,431.52,595.11
+PROD0143,Edge Kitchen 593,Appliances,Kitchen,Coreline,2630.45,3179.06
+PROD0150,Plus Kitchen 396,Appliances,Kitchen,NovaTech,3442.64,4192.78
+PROD0152,Smart Consulting 924,Services,Consulting,Nimbus,4485.26,5727.83
+PROD0154,Max Tablet 331,Electronics,Tablets,UrbanEdge,15046.68,17595.86
+PROD0155,Pro Smartphone 491,Electronics,Smartphones,Nimbus,98618.09,117259.1
+PROD0161,Pro Design 642,Software,Design,Coreline,4274.41,6815.02
+PROD0163,Pro Cable 594,Accessories,Cables,PrimeWorks,1971.84,2337.52
+PROD0165,Max Stationery 538,Home & Office,Stationery,Orion,21021.1,27699.01
+PROD0167,Core Monitor 535,Electronics,Monitors,Coreline,-100.0,11192.85
+PROD0170,Smart Table 870,Furniture,Tables,Vertex,13014.19,16370.85
+PROD0171,Pro Networking 712,Electronics,Networking,Nimbus,69159.57,102035.26
+PROD0178,Pro Headset 677,Accessories,Headsets,Apex,165.99,264.08
+PROD0179,Smart Smartphone 460,Electronics,Smartphones,Vertex,61568.64,88705.01
+PROD0183,Max Storage 788,Home & Office,Storage,Coreline,3752.35,5510.97
+PROD0188,Pro Headset 823,Accessories,Headsets,UrbanEdge,565.9,881.93
+PROD0189,Pro Heating 472,Appliances,Heating,UrbanEdge,3181.78,4061.2
+PROD0197,Edge Monitor 146,Electronics,Monitors,Zenith,20485.71,24739.63
+PROD0199,Pro Security 941,Software,Security,Vertex,6057.19,7424.74
+PROD0200,Plus Stationery 962,Home & Office,Stationery,Coreline,6297.21,10007.36
+PROD0201,Edge Tablet 407,Electronics,Tablets,NovaTech,8534.5,10087.7
+PROD0202,Plus Cable 254,Accessories,Cables,PrimeWorks,436.83,651.15
+PROD0208,Elite Installation 670,Services,Installation,PrimeWorks,7340.65,10936.4
+PROD0213,Essential Stationery 822,Home & Office,Stationery,Orion,1946.96,2608.92
+PROD0215,Edge Storage 402,Home & Office,Storage,Nimbus,2766.97,3199.41
+PROD0218,Plus Cleaning 175,Home & Office,Cleaning,Apex,2910.97,3777.02
+PROD0220,Edge Heating 303,Appliances,Heating,UrbanEdge,11288.93,13934.19
+PROD0224,Elite Cleaning 819,Home & Office,Cleaning,Vertex,5578.43,8713.17
+PROD0225,Pro Tablet 358,Electronics,Tablets,Apex,14200.61,17158.96
+PROD0228,Core Laptop 166,Electronics,Laptops,BluePeak,16812.11,26759.32
+PROD0230,Essential Monitor 174,Electronics,Monitors,NovaTech,72582.52,107989.02
+PROD0237,Essential Monitor 662,Electronics,Monitors,Orion,14030.91,19019.61
+PROD0238,Essential Laptop 762,Electronics,Laptops,BluePeak,67063.74,79242.81
+PROD0239,Essential Design 534,Software,Design,Orion,16166.26,22401.37
+PROD0244,Plus Shelving 275,Furniture,Shelving,NovaTech,6176.72,7416.73
+PROD0246,Plus Smartphone 547,Electronics,Smartphones,NovaTech,22926.4,33412.41
+PROD0248,Pro Maintenance 136,Services,Maintenance,PrimeWorks,5328.73,8189.33
+PROD0249,Edge Mice 649,Accessories,Mice,Vertex,2702.27,3145.18
+PROD0254,Pro Support 158,Services,Support,NovaTech,4040.84,4741.95
+PROD0255,Pro Networking 553,Electronics,Networking,Coreline,63835.49,78830.84
+PROD0260,Smart Mice 627,Accessories,Mice,PrimeWorks,1931.57,2510.34
+PROD0261,Plus Monitor 940,Electronics,Monitors,Coreline,51866.71,59025.02
+PROD0262,Pro Tablet 763,Electronics,Tablets,PrimeWorks,20128.01,31449.24
+PROD0263,Smart Printer 751,Home & Office,Printers,Apex,-100.0,7990.89
+PROD0264,Core Stationery 373,Home & Office,Stationery,Apex,12547.95,16132.21
+PROD0268,Essential Keyboard 722,Accessories,Keyboards,Coreline,7914.07,9488.98
+PROD0275,Core Monitor 553,Electronics,Monitors,Vertex,76866.08,109804.29
+PROD0276,Elite Analytic 176,Software,Analytics,Orion,1674.06,2126.77
+PROD0277,Essential Cabinet 796,Furniture,Cabinets,UrbanEdge,4120.96,5031.33
+PROD0280,Max Smartphone 836,Electronics,Smartphones,Vertex,46385.07,61776.56
+PROD0281,Elite Monitor 722,Electronics,Monitors,Apex,11668.7,17574.8
+PROD0283,Smart Cooling 166,Appliances,Cooling,Orion,2453.85,2957.05
+PROD0289,Elite Small Appliance 629,Appliances,Small Appliances,Apex,4767.29,7464.16
+PROD0292,Smart Productivity 276,Software,Productivity,Zenith,5046.22,5806.75
+PROD0294,Plus Security 206,Software,Security,Nimbus,4440.34,6731.61
+PROD0301,Edge Printer 420,Home & Office,Printers,Coreline,388.66,544.58
+PROD0302,Core Cabinet 735,Furniture,Cabinets,Zenith,30894.57,38844.73
+PROD0304,Edge Security 695,Software,Security,Apex,1224.49,1518.91
+PROD0308,Smart Installation 342,Services,Installation,Orion,2304.81,3238.22
+PROD0310,Core Monitor 322,Electronics,Monitors,Orion,19026.83,21961.19
+PROD0313,Core Training 905,Services,Training,UrbanEdge,3132.78,4345.57
+PROD0317,Edge Smartphone 913,Electronics,Smartphones,Coreline,17359.67,20186.44
+PROD0321,Elite Laptop 659,Electronics,Laptops,Vertex,43192.65,64108.3
+PROD0324,Pro Headset 857,Accessories,Headsets,Vertex,256.17,303.3
+PROD0325,Plus Table 688,Furniture,Tables,PrimeWorks,36467.48,43361.73
+PROD0328,Edge Installation 865,Services,Installation,Apex,2175.42,3073.42
+PROD0329,Max Cleaning 402,Home & Office,Cleaning,Zenith,422.71,520.87
+PROD0331,Elite Keyboard 721,Accessories,Keyboards,Apex,324.32,439.65
+PROD0340,Max Monitor 443,Electronics,Monitors,BluePeak,98345.67,119381.18
+PROD0341,Max Training 264,Services,Training,PrimeWorks,9435.2,11654.78
+PROD0345,Max Support 155,Services,Support,Zenith,692.57,1102.26
+PROD0346,Max Smartphone 776,Electronics,Smartphones,Orion,23748.14,35078.18
+PROD0349,Core Laptop 317,Electronics,Laptops,Nimbus,36291.32,58500.49
+PROD0350,Max Cleaning Appliance 343,Appliances,Cleaning Appliances,BluePeak,22784.84,36097.01
+PROD0353,Core Installation 844,Services,Installation,NovaTech,-100.0,1112.31
+PROD0355,Pro Mice 798,Accessories,Mice,NovaTech,3638.65,5471.57
+PROD0357,Smart Headset 420,Accessories,Headsets,BluePeak,-100.0,796.85
+PROD0359,Essential Stationery 138,Home & Office,Stationery,PrimeWorks,865.6,1272.05
+PROD0362,Core Headset 328,Accessories,Headsets,Vertex,4146.54,5184.16
+PROD0363,Smart Laptop 668,Electronics,Laptops,UrbanEdge,46679.89,68961.67
+PROD0364,Smart Training 764,Services,Training,Vertex,12815.64,15686.65
+PROD0367,Core Collaboration 245,Software,Collaboration,Coreline,1204.27,1679.04
+PROD0368,Max Training 574,Services,Training,Coreline,-100.0,8357.37
+PROD0373,Pro Keyboard 811,Accessories,Keyboards,Coreline,260.95,327.77
+PROD0377,Edge Bag 567,Accessories,Bags,UrbanEdge,871.31,1204.51
+PROD0378,Smart Productivity 734,Software,Productivity,NovaTech,1473.62,2070.51
+PROD0379,Edge Laptop 461,Electronics,Laptops,Orion,16123.18,25018.09
+PROD0380,Plus Monitor 684,Electronics,Monitors,Zenith,24628.28,28856.94
+PROD0383,Core Headset 922,Accessories,Headsets,PrimeWorks,3523.55,4096.84
+PROD0385,Essential Cooling 115,Appliances,Cooling,Orion,-100.0,39912.82
+PROD0386,Elite Smartphone 569,Electronics,Smartphones,Coreline,16336.53,23857.37
+PROD0391,Max Support 740,Services,Support,NovaTech,12117.86,14119.38
+PROD0392,Edge Security 635,Software,Security,Coreline,1618.77,2299.94
+PROD0395,Elite Tablet 813,Electronics,Tablets,BluePeak,19487.03,28426.36
+PROD0398,Core Design 696,Software,Design,NovaTech,14863.52,23546.13
+PROD0400,Pro Tablet 410,Electronics,Tablets,Apex,65731.73,94236.8
+PROD0402,Max Bag 511,Accessories,Bags,Apex,4904.84,6065.74
+PROD0404,Smart Cleaning 956,Home & Office,Cleaning,Orion,1192.01,1387.29
+PROD0405,Pro Mice 741,Accessories,Mice,UrbanEdge,2261.56,2647.04
+PROD0406,Pro Networking 179,Electronics,Networking,NovaTech,56269.27,89602.29
+PROD0411,Plus Training 983,Services,Training,PrimeWorks,19776.83,23940.88
+PROD0413,Core Tablet 194,Electronics,Tablets,BluePeak,23593.54,36601.21
+PROD0415,Core Printer 429,Home & Office,Printers,Apex,507.12,697.77
+PROD0417,Smart Mice 433,Accessories,Mice,Zenith,5427.42,6359.06
+PROD0418,Max Table 314,Furniture,Tables,PrimeWorks,30489.18,45892.53
+PROD0420,Edge Productivity 534,Software,Productivity,PrimeWorks,11285.94,15704.92
+PROD0424,Smart Printer 503,Home & Office,Printers,Coreline,824.56,1023.85
+PROD0425,Max Cleaning 857,Home & Office,Cleaning,Zenith,1872.95,2666.4
+PROD0433,Edge Monitor 941,Electronics,Monitors,BluePeak,7110.49,9517.65
+PROD0434,Edge Storage 931,Home & Office,Storage,Zenith,-100.0,2287.61
+PROD0435,Max Collaboration 512,Software,Collaboration,Apex,4675.21,7094.13
+PROD0438,Elite Kitchen 730,Appliances,Kitchen,Coreline,26789.66,41188.02
+PROD0442,Edge Installation 509,Services,Installation,BluePeak,1786.9,2555.52
+PROD0444,Edge Smartphone 895,Electronics,Smartphones,Nimbus,16714.11,23736.98
+PROD0449,Max Kitchen 576,Appliances,Kitchen,Vertex,7679.59,12312.1
+PROD0452,Essential Tablet 990,Electronics,Tablets,NovaTech,90123.45,113463.07
+PROD0453,Max Tablet 784,Electronics,Tablets,Orion,31023.14,36010.5
+PROD0454,Plus Productivity 264,Software,Productivity,Zenith,19837.29,22546.9
+PROD0456,Smart Cabinet 406,Furniture,Cabinets,UrbanEdge,3458.15,5197.95
+PROD0461,Pro Bag 964,Accessories,Bags,Zenith,4373.86,6387.68
+PROD0463,Elite Training 663,Services,Training,Apex,4533.02,6414.14
+PROD0465,Core Shelving 845,Furniture,Shelving,UrbanEdge,3774.9,4983.13
+PROD0466,Plus Monitor 898,Electronics,Monitors,PrimeWorks,7294.37,11481.37
+PROD0468,Plus Cleaning Appliance 216,Appliances,Cleaning Appliances,Coreline,12277.54,14063.18
+PROD0475,Elite Installation 932,Services,Installation,UrbanEdge,6513.44,9620.73
+PROD0477,Essential Monitor 581,Electronics,Monitors,NovaTech,8919.42,11219.21
+PROD0480,Elite Printer 653,Home & Office,Printers,Zenith,6609.43,9013.8
+PROD0486,Plus Stationery 174,Home & Office,Stationery,Zenith,981.93,1455.32
+PROD0489,Edge Office Equipment 549,Home & Office,Office Equipment,PrimeWorks,8025.98,10847.48
+PROD0498,Essential Keyboard 783,Accessories,Keyboards,UrbanEdge,5161.34,7664.25
+PROD0499,Elite Consulting 187,Services,Consulting,UrbanEdge,6356.55,8418.05
+PROD0507,Max Networking 589,Electronics,Networking,Orion,46607.75,61444.99
+PROD0509,Smart Stationery 771,Home & Office,Stationery,Zenith,1247.33,1427.13
+PROD0510,Core Shelving 991,Furniture,Shelving,NovaTech,6919.15,10356.12
+PROD0513,Essential Tablet 923,Electronics,Tablets,NovaTech,6921.76,9013.43
+PROD0514,Edge Mice 894,Accessories,Mice,Vertex,965.43,1143.97
+PROD0521,Plus Networking 165,Electronics,Networking,Apex,41040.47,55807.61
+PROD0523,Max Office Equipment 654,Home & Office,Office Equipment,PrimeWorks,15873.16,20077.66
+PROD0525,Edge Tablet 885,Electronics,Tablets,Apex,-100.0,32669.73
+PROD0526,Plus Monitor 187,Electronics,Monitors,NovaTech,15972.57,23774.76
+PROD0527,Plus Analytic 456,Software,Analytics,Orion,18792.35,27541.99
+PROD0529,Plus Smartphone 623,Electronics,Smartphones,Coreline,11034.14,15129.58
+PROD0531,Core Productivity 741,Software,Productivity,PrimeWorks,988.0,1574.08
+PROD0532,Pro Kitchen 406,Appliances,Kitchen,BluePeak,28281.4,32352.43
+PROD0535,Essential Kitchen 201,Appliances,Kitchen,BluePeak,27786.23,38097.33
+PROD0540,Pro Tablet 747,Electronics,Tablets,NovaTech,71663.24,81714.38
+PROD0543,Elite Networking 550,Electronics,Networking,NovaTech,-100.0,26049.31
+PROD0547,Smart Design 335,Software,Design,Orion,25517.97,33970.47
+PROD0548,Essential Monitor 106,Electronics,Monitors,Vertex,16892.35,27123.02
+PROD0549,Pro Small Appliance 647,Appliances,Small Appliances,PrimeWorks,46063.23,65335.26
+PROD0553,Edge Tablet 250,Electronics,Tablets,Orion,11898.32,18303.72
+PROD0554,Pro Chair 820,Furniture,Chairs,Coreline,27441.94,39560.58
+PROD0564,Elite Cleaning Appliance 222,Appliances,Cleaning Appliances,NovaTech,58348.32,67388.83
+PROD0566,Edge Cable 575,Accessories,Cables,Apex,663.21,1018.3
+PROD0567,Essential Desk 926,Furniture,Desks,UrbanEdge,7077.05,10132.89
+PROD0568,Pro Monitor 788,Electronics,Monitors,PrimeWorks,55799.35,69269.63
+PROD0569,Plus Kitchen 453,Appliances,Kitchen,Vertex,2110.41,3225.51
+PROD0571,Elite Headset 265,Accessories,Headsets,Zenith,653.56,846.44
+PROD0572,Pro Printer 996,Home & Office,Printers,BluePeak,2628.87,3466.57
+PROD0575,Smart Smartphone 871,Electronics,Smartphones,BluePeak,10169.12,12633.71
+PROD0576,Edge Heating 521,Appliances,Heating,Apex,12664.33,17536.19
+PROD0577,Essential Office Equipment 901,Home & Office,Office Equipment,PrimeWorks,1021.04,1638.12
+PROD0578,Pro Mice 772,Accessories,Mice,Orion,675.69,1018.12
+PROD0579,Pro Printer 240,Home & Office,Printers,BluePeak,409.32,585.38
+PROD0581,Plus Laptop 501,Electronics,Laptops,Nimbus,54348.52,78590.51
+PROD0583,Essential Monitor 480,Electronics,Monitors,PrimeWorks,22710.33,26300.52
+PROD0584,Edge Cleaning 290,Home & Office,Cleaning,Vertex,6359.65,9992.73
+PROD0585,Essential Collaboration 295,Software,Collaboration,NovaTech,1368.92,1952.21
+PROD0588,Smart Productivity 494,Software,Productivity,Vertex,2146.23,2762.33
+PROD0592,Smart Analytic 244,Software,Analytics,PrimeWorks,7890.03,10865.96
+PROD0596,Core Storage 330,Home & Office,Storage,Coreline,868.94,1282.99
+PROD0597,Essential Office Equipment 453,Home & Office,Office Equipment,BluePeak,1853.28,2261.76
+PROD0598,Essential Shelving 889,Furniture,Shelving,Coreline,2867.52,4317.8
+PROD0601,Pro Networking 294,Electronics,Networking,NovaTech,27094.43,38049.68
+PROD0602,Elite Headset 499,Accessories,Headsets,Coreline,219.5,310.95
+PROD0603,Core Networking 579,Electronics,Networking,Coreline,34584.82,42328.36
+PROD0605,Core Monitor 170,Electronics,Monitors,Apex,7612.96,10518.27
+PROD0607,Essential Kitchen 467,Appliances,Kitchen,BluePeak,10705.17,15508.68
+PROD0608,Smart Kitchen 927,Appliances,Kitchen,Coreline,18143.83,25990.77
+PROD0610,Essential Chair 906,Furniture,Chairs,Orion,3053.09,4294.82
+PROD0611,Smart Analytic 934,Software,Analytics,Zenith,2867.29,3888.83
+PROD0612,Core Maintenance 117,Services,Maintenance,BluePeak,13640.98,19419.36
+PROD0613,Essential Consulting 890,Services,Consulting,Coreline,1766.17,2366.91
+PROD0617,Elite Storage 411,Home & Office,Storage,Orion,1508.79,1731.86
+PROD0618,Max Cable 188,Accessories,Cables,Nimbus,644.26,834.16
+PROD0623,Elite Cable 104,Accessories,Cables,NovaTech,202.76,317.15
+PROD0624,Pro Smartphone 305,Electronics,Smartphones,BluePeak,20827.89,27329.28
+PROD0625,Max Table 166,Furniture,Tables,PrimeWorks,35317.55,42714.45
+PROD0626,Elite Table 968,Furniture,Tables,Orion,5036.57,7657.89
+PROD0627,Max Analytic 821,Software,Analytics,UrbanEdge,5941.5,7708.61
+PROD0630,Elite Printer 843,Home & Office,Printers,Zenith,15810.82,22292.01
+PROD0632,Essential Monitor 889,Electronics,Monitors,UrbanEdge,31253.7,37967.31
+PROD0633,Essential Support 521,Services,Support,Coreline,14512.22,19772.08
+PROD0635,Edge Security 882,Software,Security,Vertex,4198.9,5656.19
+PROD0638,Max Printer 622,Home & Office,Printers,UrbanEdge,1398.48,1890.14
+PROD0639,Pro Storage 600,Home & Office,Storage,UrbanEdge,3620.34,4141.35
+PROD0642,Elite Design 175,Software,Design,BluePeak,7383.41,9855.67
+PROD0649,Smart Security 200,Software,Security,Zenith,1318.89,1957.71
+PROD0651,Max Monitor 342,Electronics,Monitors,Nimbus,50323.78,70479.92
+PROD0652,Core Bag 100,Accessories,Bags,Orion,1627.11,2464.84
+PROD0654,Elite Networking 664,Electronics,Networking,Nimbus,12562.22,14361.61
+PROD0655,Edge Laptop 574,Electronics,Laptops,Apex,16065.05,20209.23
+PROD0657,Plus Collaboration 390,Software,Collaboration,Apex,5589.59,8723.05
+PROD0662,Plus Desk 811,Furniture,Desks,Zenith,31658.4,42568.32
+PROD0666,Pro Tablet 695,Electronics,Tablets,BluePeak,19887.43,28843.26
+PROD0667,Core Cooling 604,Appliances,Cooling,PrimeWorks,5929.91,8925.14
+PROD0670,Essential Cable 166,Accessories,Cables,Nimbus,1417.57,1935.25
+PROD0679,Core Office Equipment 589,Home & Office,Office Equipment,Vertex,3191.68,3638.34
+PROD0681,Max Storage 230,Home & Office,Storage,NovaTech,651.9,745.99
+PROD0689,Max Tablet 692,Electronics,Tablets,Vertex,20122.0,24263.42
+PROD0692,Pro Design 390,Software,Design,BluePeak,2528.82,3361.47
+PROD0693,Core Mice 975,Accessories,Mice,UrbanEdge,3448.24,4867.14
+PROD0695,Core Installation 802,Services,Installation,Vertex,1185.27,1528.7
+PROD0697,Plus Monitor 466,Electronics,Monitors,UrbanEdge,7040.29,10643.16
+PROD0702,Smart Laptop 436,Electronics,Laptops,Nimbus,41415.42,52696.89
+PROD0704,Elite Productivity 796,Software,Productivity,Orion,3440.51,4686.22
+PROD0705,Edge Analytic 287,Software,Analytics,BluePeak,2032.33,3233.14
+PROD0706,Pro Smartphone 648,Electronics,Smartphones,Apex,11290.95,17576.9
+PROD0707,Edge Office Equipment 797,Home & Office,Office Equipment,Nimbus,1178.12,1858.82
+PROD0708,Core Monitor 146,Electronics,Monitors,Nimbus,15225.0,23306.04
+PROD0710,Elite Small Appliance 122,Appliances,Small Appliances,Nimbus,4836.93,7090.51
+PROD0713,Core Bag 729,Accessories,Bags,Nimbus,1954.7,2781.75
+PROD0714,Essential Keyboard 444,Accessories,Keyboards,Apex,1260.07,1597.23
+PROD0715,Core Cabinet 658,Furniture,Cabinets,UrbanEdge,8220.75,9428.43
+PROD0723,Max Monitor 972,Electronics,Monitors,NovaTech,69955.72,102472.72
+PROD0725,Edge Networking 884,Electronics,Networking,NovaTech,53486.46,78986.87
+PROD0727,Essential Shelving 196,Furniture,Shelving,Zenith,19902.49,25618.79
+PROD0730,Elite Networking 819,Electronics,Networking,Zenith,18754.02,21674.95
+PROD0733,Plus Cable 532,Accessories,Cables,UrbanEdge,2263.81,2583.14
+PROD0736,Max Design 697,Software,Design,NovaTech,1494.27,2283.39
+PROD0738,Elite Table 692,Furniture,Tables,Apex,25497.48,35398.51
+PROD0739,Core Smartphone 626,Electronics,Smartphones,Zenith,24895.14,33068.15
+PROD0743,Core Design 760,Software,Design,Nimbus,2401.27,3495.75
+PROD0745,Edge Shelving 909,Furniture,Shelving,BluePeak,31300.13,39631.44
+PROD0747,Elite Cable 879,Accessories,Cables,UrbanEdge,351.23,535.14
+PROD0749,Edge Desk 777,Furniture,Desks,Apex,5374.61,7707.39

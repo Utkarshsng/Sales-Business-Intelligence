@@ -1,0 +1,9 @@
+Metric,Value
+Raw order rows,90100
+Duplicate order rows identified,100
+Invalid quantity rows identified,100
+Invalid discount rows identified,150
+Negative shipping rows identified,100
+Clean order rows after validation,89651
+Rejected order rows,349
+Logged quality issues (existing issue log),915

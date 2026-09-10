@@ -1,0 +1,12 @@
+metric,value
+customers,2000
+products,300
+stores,18
+raw_orders,17020
+cleaned_orders,534
+rejected_orders,16466
+revenue,9912500.93
+profit,-9634581.85
+margin_pct,-97.20
+aov,18562.74
+return_rate_pct,3.56

@@ -1,0 +1,21 @@
+PHASE 5B — POWER QUERY EXECUTION CHECKLIST
+
+[ ] Copy project folder to a stable local path.
+[ ] Open Excel workbook.
+[ ] Data → Get Data → Blank Query.
+[ ] Paste 01_customers.m into Advanced Editor.
+[ ] Replace source path and rename Customers_Clean.
+[ ] Repeat for Products_Clean.
+[ ] Repeat for Stores_Clean.
+[ ] Repeat for Orders_Clean.
+[ ] Create Quality_Checks after the four base queries exist.
+[ ] Load cleaned dimension tables.
+[ ] Load Orders_Clean as table or connection-only.
+[ ] Load Quality_Checks.
+[ ] Confirm exception counts are 0.
+[ ] Refresh All.
+[ ] Save workbook.
+
+INTERVIEW:
+Power Query = repeatable ETL layer.
+Key value = refreshability + consistency + documented rules.

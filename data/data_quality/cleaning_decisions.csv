@@ -1,0 +1,12 @@
+table,issue,treatment,business_reason
+Customers,Invalid age,Convert to NULL,Do not invent a customer's age
+Customers,Missing state,Fill Unknown,Missing location should be explicit
+Products,Negative unit cost,Convert to NULL,Negative cost is invalid
+Products,Category inconsistency,Trim + title case,Same business category must have one label
+Stores,Region inconsistency,Trim + title case,Standardize dimension values
+Orders,Duplicate order ID,Remove duplicate copy,A transaction should be counted once
+Orders,Invalid quantity,Reject row,Cannot represent a valid sale
+Orders,Invalid discount,Reject row,Violates business rule
+Orders,Negative shipping,Reject row,Expense cannot be negative
+Orders,Payment formatting,Trim + title case,Standardize labels
+Orders,Financial values,Recalculate,Derived values should follow documented formulas

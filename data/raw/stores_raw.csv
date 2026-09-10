@@ -1,0 +1,19 @@
+store_id,store_name,city,state,region,channel
+STORE003,Chennai Business Hub 03,Chennai,Tamil Nadu,South,Retail
+STORE009,Indore Business Hub 09,Indore,Madhya Pradesh,Central,Online
+STORE010,Indore Business Hub 10,Indore,Madhya Pradesh,Central,Online
+STORE012,Chandigarh Business Hub 12,Chandigarh,Chandigarh,North,Online
+STORE014,Jaipur Business Hub 14,Jaipur,Rajasthan,North,Retail
+STORE017,Delhi Business Hub 17,Delhi,Delhi,North,Partner
+STORE018,Bhopal Business Hub 18,Bhopal,Madhya Pradesh,Central,Retail
+STORE019,Dehradun Business Hub 19,Dehradun,Uttarakhand,North,Online
+STORE020,Delhi Business Hub 20,Delhi,Delhi,North,Online
+STORE022,Lucknow Business Hub 22,Lucknow,Uttar Pradesh,North,Partner
+STORE023,Bhopal Business Hub 23,Bhopal,Madhya Pradesh,Central,Online
+STORE025,Bhopal Business Hub 25,Bhopal,Madhya Pradesh,Central,Online
+STORE026,Kochi Business Hub 26,Kochi,Kerala,South,Retail
+STORE028,Hyderabad Business Hub 28,Hyderabad,Telangana,South,Retail
+STORE029,Chennai Business Hub 29,Chennai,Tamil Nadu,South,Online
+STORE030,Chennai Business Hub 30,Chennai,Tamil Nadu,South,Online
+STORE034,Jaipur Business Hub 34,Jaipur,Rajasthan,North,Retail
+STORE035,Ludhiana Business Hub 35,Ludhiana,Punjab,North,Online
